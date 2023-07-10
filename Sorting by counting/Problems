@@ -16,7 +16,6 @@ The first line of the input file contains an integer N. (1 <= N <= 100000), the 
 Output data
 Print these numbers in non-decreasing order.
 
-
 4. Everyone knows that over time the keyboard wears out, and the keys on it begin to stick. Of course, such a keyboard can still be used for some time, but you have to use a lot of force to press the keys.
 When making a keyboard, initially for each key, the number of clicks that it must withstand is set. If you know these values for the keyboard you are using, then for a certain sequence of pressed keys, you can determine which keys will break during their use, and which ones will not.
 You need to write a program that determines which keys will break during a given keyboard operation option.
@@ -26,13 +25,11 @@ Output data
 In the output file, you need to output n lines containing information about the health of the keys. If the i-th key is broken, then the i-th line should contain the word “yes” (without quotes), if the key is functional, the word “no”.
 
 5. A palindrome is a string that reads the same way both from right to left and from left to right.
-
 A set of large Latin letters (not necessarily different) is received at the input of the program. It is allowed to rearrange letters, as well as delete some letters. It is required to make a palindrome of the largest length from these letters according to the specified rules, and if there are several such palindromes, then select the first of them in alphabetical order.
 Input data
 The first line of the input data contains the number N (1 <= N <= 100000). The second line contains a sequence of N large Latin letters (the letters are written without spaces).
 Output data
 In a single line of output data, output the desired palindrome.
-
 
 6. Input data
 In each line, the class number is written first (a number equal to 9, 10 or 11), then (separated by a space) — the student's last name.

@@ -47,7 +47,6 @@ Print one number – the number of the maximum element in the array. If there ar
 7. In connection with the visit of Emperor Palpatine, it was decided to update the composition of droids in Hangar 32. Due to the crisis, it was decided not to buy new droids, but to throw out a couple of old ones. As you know, Palpatine does not tolerate droids with small serial numbers, so all that is required is to find among them two that have the smallest serial numbers.
 Input data
 The first line of the input file contains an integer N – the number of droids. (2 ≤ N ≤ 1000), the second line is N integers modulo no more than 2*109 – droid numbers
- 
 Output data
 Print two numbers: the first is the last largest of the droid numbers (this should be disposed of first), and the second is the penultimate.
 
